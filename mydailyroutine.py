@@ -1,0 +1,7 @@
+print('My name is Aiman Ghimire')
+print('I read in Grade 9')
+print('My School Name is Kunwarwarti English Boarding School(Kebs)')
+print('My School is fun and we do lots of fun activities and lots of studying too.')
+print('I love my school very much.')
+print('My school routine is kinda plain and simple. I wake up in the morning of the school day and immediately arrange my bed and try not to fall asleep cause of the tiring homework I do in night and from the sports I have been playing . After I finish arranging my bed I straightly go to the bathroom to brush my teeth, shower and wash my face. After all that I will be eating my breakfast and pacing my lunch to go school and to get ready for school too. In my school after 5 periods which is 40 to 45 minutes per period . We finally get our break time at 2:00pm afternoon. After lunch we still have like 2 more periods to study till 4:00pm. Thats how my school ends but I still have to do training for my volleyball practice uptill 4;00pm to 7:00pm at night and when I reach home I eat my dinner and go to repeat the cycle all over again waiting for the next upcoming holdiay:)')
+print('Thank You')
